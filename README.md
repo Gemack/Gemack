@@ -1,7 +1,8 @@
 
 <img align='center' alt='banner' width='1100' src='https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?w=996'/>
 <h1 align="center">Hi 👋, I'm Emmanuel Boniface</h1>
-<h3 align="center">A passionate programmer with years of experience on web development using ReactJS, Laravel and ASP.NET also i perform data analysis with python</h3>
+<h3 align="center">A passionate programmer with years of experience on web development using ReactJS, Laravel and ASP.NET</h3>
+<h3 align ="center">I also Analyze data using python 😁</h3>
 <img align='right' alt='coding' width='400' src='https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966'
 - 🔭 I’m currently working on **Learning Management system**
 
